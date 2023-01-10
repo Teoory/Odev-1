@@ -2,7 +2,7 @@
 github ödevi
 LeetCode  single number result
 
-------------
+
 | Runtime  |
 | 67 ms    |
 | Beats    |
@@ -12,4 +12,3 @@ LeetCode  single number result
 | 42.8 MB  |
 | Beats    |
 | 94.32%   |
-------------
