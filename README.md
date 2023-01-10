@@ -1,14 +1,10 @@
 # Odev-1
-github ödevi
-LeetCode  single number result
+github ödevi -
+LeetCode single number result
 
-
-| Runtime  |
-| 67 ms    |
-| Beats    |
-| 94.25%   |
-|----------|
-| Memory   |
-| 42.8 MB  |
-| Beats    |
-| 94.32%   |
+| Runtime   | Memory  |
+|:-------:| -----:|
+| 67 ms  | 42.8 MB     |
+|   |
+| Beats   | Beats    |
+| 94.25%     | 94.32%  |
